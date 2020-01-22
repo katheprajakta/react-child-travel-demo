@@ -1,0 +1,17 @@
+
+.cca-verify-banner{
+  position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 8px;
+    background-color: #795aa6;
+    color: white;
+    font-size: 15px;
+    z-index: 99;
+    button{
+      margin-left: 40px;
+    }
+    display:none;
+
+}
